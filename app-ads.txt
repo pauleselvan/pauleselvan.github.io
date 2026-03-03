@@ -1,0 +1,5 @@
+# One India Bible Account
+google.com, pub-1191495600266475, DIRECT, f08c47fec0942fa0
+
+# Your Other App Account (Example)
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
